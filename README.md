@@ -1,6 +1,7 @@
 # CS443-Project
 Photo editor and uploader with GPS android application
 For running the app 
+
 •   Start MySql and create a database named pilla then load all the tables from db.zip.
 
 •            Load server code from JSP JAVA.zip to eclipse and then run any file as server from web content folder(right click -> run as server) with tomcat so you can check jsp pages are running
